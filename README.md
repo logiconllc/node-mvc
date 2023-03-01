@@ -1,4 +1,4 @@
-# Project NFT-es
+# Node MVC Template
 
 ## Requirements
 
@@ -53,14 +53,6 @@ S3_REGION=
 s3_BUCKET_NAME=
 
 
-PINATA_API_KEY=
-PINATA_SECRET_API_KEY=
-
-
-
-META_MASK_ADMIN_ACCOUNT_ADDRESS=
-META_MASK_ADMIN_ACCOUNT_PRIVATE_KEY=
-SMART_CONTRACT_RPC_URL=
 
 ## Node server status codes details
 
