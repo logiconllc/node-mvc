@@ -19,7 +19,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 
 ## Install
 
-    $ git clone https://arhamirfan4@bitbucket.org/logicon15/global-pass-backend.git
+    $ git clone https://github.com/logiconllc/node-mvc-template/
     $ cd global-pass-backend
     $ yarn install
 
